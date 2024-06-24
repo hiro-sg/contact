@@ -12,7 +12,7 @@
   4. php artisan maigrate
 
 ### ER図
-  ![contact.jpg]()
+  ![contact.jpg](contact.jpg)
 
 ### 使用技術
  * PHP 8.3.0  
