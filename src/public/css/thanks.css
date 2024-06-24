@@ -1,0 +1,33 @@
+.base__box {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto;
+    width: 1381px;
+    background: #FFF;
+}
+
+.base__box .back__font {
+    display: inline-block;
+    position: absolute;
+    padding-top: 319px;
+    border: none;
+    font-size: 30px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom:0;
+}
+
+.base__box .front__text {
+    position: absolute;
+    display: inline-block;
+    white-space: nowrap;
+    background: rgba(255, 255, 255,0.45);
+    color: #8B7969;
+    font-size: 280px;
+    font-family: "Inika", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 35px;
+}

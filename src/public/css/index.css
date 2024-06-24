@@ -1,0 +1,19 @@
+.admin__content  {
+    padding: 30px 15px;
+    max-width: 1512px;
+    background: #FFF;
+}
+
+.admin-form__heading {
+    margin-bottom: 65px;
+    text-align: center;
+}
+
+.admin-form__logo {
+    color: #8B7969;
+    text-decoration: none;
+    font-family: "Inika", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+}
