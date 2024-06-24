@@ -1,19 +1,21 @@
 # contac
 
-##環境構築
+### 環境構築
 
-##Dockerビルド
-1. 
-2. docker-compose up -d --build
+### Dockerビルド
+  * docker-compose up -d --build    
 
-##Laravel環境構築
-1. docker-compose exec bash
-2. composer install
-3. .env　の環境変数を変更
-4. php artisan maigrate
+### Laravel環境構築
+  1. docker-compose exec bash
+  2. composer install
+  3. .env　の環境変数を変更
+  4. php artisan maigrate
 
-使用技術
-PHP 8.3.0
-Laravel 8.83.27
-MySQL 8.0.26
+### ER図
+  ![contact.jpg]()
+
+### 使用技術
+ * PHP 8.3.0  
+ * Laravel 8.83.27  
+ * MySQL 8.0.26  
 
